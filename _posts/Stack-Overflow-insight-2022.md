@@ -14,7 +14,8 @@ Stack overflow is the largest and trusted online community gathering developers 
 <h2>Demographic</h2>
 <p>Respondents that were taken into this analysis are either developer by profession or not primarily a developer but write code sometimes as part of work.
 So the term “developer” used in this post refers to some who write code.</p>
-![](D:\STACKOVERFLOW-INSIGHT-2022\Viz\Demographic\Age.png, "Age distribution")
+
+![Alt text](Images/Age_EduLevel.png)
 
 <p>Most of developers aged from 18 to 44 years old with bachelor’s degree as their highest education level.</p>
 
