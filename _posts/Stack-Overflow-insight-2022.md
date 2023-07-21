@@ -16,9 +16,9 @@ Stack overflow is the largest and trusted online community gathering developers 
 So the term “developer” used in this post refers to some who write code.</p>
 
 ![Alt text](Images/Age_EduLevel.png)
-
 <p>Most of developers aged from 18 to 44 years old with bachelor’s degree as their highest education level.</p>
 
+![Alt text](Images/)
 
 <p>Years of work experience, either including or excluding education (also known as professional experience) is mostly less than ten years.</p>
 
