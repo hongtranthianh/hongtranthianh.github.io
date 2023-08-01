@@ -50,10 +50,4 @@ So the term "developer" used in this post refers to some who write code.</p>
 <p>This post has been discussed the ways that developers around the world advance their careers. No matter it’s formal education programs from university or informal training (e.g., online course, certification, blog,…), continuous learning and self-taught to keep up with emerging technologies and improve needed mindset in the field are key to be more employable in IT job market. </p>
 
 <h3><em>What are other ways you think developers should do to advance their career?</em></h3>
-
-
-
-
-
-
-
+<p>Visit source code of this blog <a href="https://github.com/hongtranthianh/STACKOVERFLOW-INSIGHT-2022">here</a></p>
